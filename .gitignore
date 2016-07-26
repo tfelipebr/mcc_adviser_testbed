@@ -38,3 +38,12 @@ captures/
 
 # Keystore files
 *.jks
+
+
+
+*.txt
+*.txt.lck
+/.idea/libraries
+.DS_Store
+/build
+/captures
